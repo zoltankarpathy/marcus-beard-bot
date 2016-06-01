@@ -60,7 +60,7 @@ end = randphrase()
 start = randopener()
 
 
-sentence = "did you know " + word + " rhymes with " + rhyme + " " + end
+sentence = "HELLO DID YOU KNOW " + word + " rhymes with " + rhyme + " " + end
 
 
 tweet(sentence)
